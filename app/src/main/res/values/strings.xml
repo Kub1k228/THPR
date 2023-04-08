@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFourApp</string>
+    <string name="list">Item List</string>
+    <string name="user_list">User List</string>
+    <string name="user_list_title">%1$s</string>
+    <string name="user_list_item_title">User %1$s</string>
+</resources>
